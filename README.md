@@ -5,8 +5,9 @@
 ![HowPaapabutterflyGIF](https://github.com/Armand1903/Asteroids-Game/assets/95021653/e1af701e-0a99-4b4a-bc0b-2efd250aec84)
 
 In order to play, you just have to:
-1. Download the "game" folder.
-2. Run the "game.html" file.
+1. Download this repository as a ZIP file.
+2. Unzip the ZIP file.
+3. Run the "game.html" file.
 ---
 ## Rules 📝
 ### The game has a few basic rules that you need to know before playing:
