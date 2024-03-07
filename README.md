@@ -1,5 +1,5 @@
 # Asteroids-Game 🚀
-This is an engaging asteroids game created with JavaScript and the HTML5 Canvas element. Players navigate a spaceship through an asteroid field, avoiding obstacles and shooting at them in order to get points.
+### This is an engaging asteroids game created with JavaScript and the HTML5 Canvas element. Players navigate a spaceship through an asteroid field, avoiding obstacles and shooting at them in order to get points.
 ---
 ## How to play the game 🧐
 ![HowPaapabutterflyGIF](https://github.com/Armand1903/Asteroids-Game/assets/95021653/e1af701e-0a99-4b4a-bc0b-2efd250aec84)
